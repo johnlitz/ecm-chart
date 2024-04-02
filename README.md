@@ -6,4 +6,4 @@ To add future dates, I visited twelvedata.com and signed up to use their S&P 500
 
 The dates that are found without a dot are cycles start times that are predicted in the future.
 
-Please feel free to update my code to experiment and/or make it more accurate.
+Please feel free to update my code to experiment and/or make it more accurate. This is by no means 100% accurate.
